@@ -1,0 +1,64 @@
+F:\jony\SignalR_M13\Evidence_File\Practice_01\work_01\work_01\bin\Debug\net6.0\appsettings.Development.json
+F:\jony\SignalR_M13\Evidence_File\Practice_01\work_01\work_01\bin\Debug\net6.0\appsettings.json
+F:\jony\SignalR_M13\Evidence_File\Practice_01\work_01\work_01\bin\Debug\net6.0\libman.json
+F:\jony\SignalR_M13\Evidence_File\Practice_01\work_01\work_01\bin\Debug\net6.0\work_01.staticwebassets.runtime.json
+F:\jony\SignalR_M13\Evidence_File\Practice_01\work_01\work_01\bin\Debug\net6.0\work_01.exe
+F:\jony\SignalR_M13\Evidence_File\Practice_01\work_01\work_01\bin\Debug\net6.0\work_01.deps.json
+F:\jony\SignalR_M13\Evidence_File\Practice_01\work_01\work_01\bin\Debug\net6.0\work_01.runtimeconfig.json
+F:\jony\SignalR_M13\Evidence_File\Practice_01\work_01\work_01\bin\Debug\net6.0\work_01.dll
+F:\jony\SignalR_M13\Evidence_File\Practice_01\work_01\work_01\bin\Debug\net6.0\work_01.pdb
+F:\jony\SignalR_M13\Evidence_File\Practice_01\work_01\work_01\obj\Debug\net6.0\work_01.csproj.AssemblyReference.cache
+F:\jony\SignalR_M13\Evidence_File\Practice_01\work_01\work_01\obj\Debug\net6.0\work_01.GeneratedMSBuildEditorConfig.editorconfig
+F:\jony\SignalR_M13\Evidence_File\Practice_01\work_01\work_01\obj\Debug\net6.0\work_01.AssemblyInfoInputs.cache
+F:\jony\SignalR_M13\Evidence_File\Practice_01\work_01\work_01\obj\Debug\net6.0\work_01.AssemblyInfo.cs
+F:\jony\SignalR_M13\Evidence_File\Practice_01\work_01\work_01\obj\Debug\net6.0\work_01.csproj.CoreCompileInputs.cache
+F:\jony\SignalR_M13\Evidence_File\Practice_01\work_01\work_01\obj\Debug\net6.0\work_01.MvcApplicationPartsAssemblyInfo.cache
+F:\jony\SignalR_M13\Evidence_File\Practice_01\work_01\work_01\obj\Debug\net6.0\work_01.RazorAssemblyInfo.cache
+F:\jony\SignalR_M13\Evidence_File\Practice_01\work_01\work_01\obj\Debug\net6.0\work_01.RazorAssemblyInfo.cs
+F:\jony\SignalR_M13\Evidence_File\Practice_01\work_01\work_01\obj\Debug\net6.0\staticwebassets\msbuild.work_01.Microsoft.AspNetCore.StaticWebAssets.props
+F:\jony\SignalR_M13\Evidence_File\Practice_01\work_01\work_01\obj\Debug\net6.0\staticwebassets\msbuild.build.work_01.props
+F:\jony\SignalR_M13\Evidence_File\Practice_01\work_01\work_01\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.work_01.props
+F:\jony\SignalR_M13\Evidence_File\Practice_01\work_01\work_01\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.work_01.props
+F:\jony\SignalR_M13\Evidence_File\Practice_01\work_01\work_01\obj\Debug\net6.0\staticwebassets.pack.json
+F:\jony\SignalR_M13\Evidence_File\Practice_01\work_01\work_01\obj\Debug\net6.0\staticwebassets.build.json
+F:\jony\SignalR_M13\Evidence_File\Practice_01\work_01\work_01\obj\Debug\net6.0\staticwebassets.development.json
+F:\jony\SignalR_M13\Evidence_File\Practice_01\work_01\work_01\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\jony\SignalR_M13\Evidence_File\Practice_01\work_01\work_01\obj\Debug\net6.0\scopedcss\bundle\work_01.styles.css
+F:\jony\SignalR_M13\Evidence_File\Practice_01\work_01\work_01\obj\Debug\net6.0\scopedcss\projectbundle\work_01.bundle.scp.css
+F:\jony\SignalR_M13\Evidence_File\Practice_01\work_01\work_01\obj\Debug\net6.0\work_01.dll
+F:\jony\SignalR_M13\Evidence_File\Practice_01\work_01\work_01\obj\Debug\net6.0\refint\work_01.dll
+F:\jony\SignalR_M13\Evidence_File\Practice_01\work_01\work_01\obj\Debug\net6.0\work_01.pdb
+F:\jony\SignalR_M13\Evidence_File\Practice_01\work_01\work_01\obj\Debug\net6.0\work_01.genruntimeconfig.cache
+F:\jony\SignalR_M13\Evidence_File\Practice_01\work_01\work_01\obj\Debug\net6.0\ref\work_01.dll
+F:\jony\All-project\For upload Project\SignalR\work_01\work_01\bin\Debug\net6.0\appsettings.Development.json
+F:\jony\All-project\For upload Project\SignalR\work_01\work_01\bin\Debug\net6.0\appsettings.json
+F:\jony\All-project\For upload Project\SignalR\work_01\work_01\bin\Debug\net6.0\libman.json
+F:\jony\All-project\For upload Project\SignalR\work_01\work_01\bin\Debug\net6.0\work_01.staticwebassets.runtime.json
+F:\jony\All-project\For upload Project\SignalR\work_01\work_01\bin\Debug\net6.0\work_01.exe
+F:\jony\All-project\For upload Project\SignalR\work_01\work_01\bin\Debug\net6.0\work_01.deps.json
+F:\jony\All-project\For upload Project\SignalR\work_01\work_01\bin\Debug\net6.0\work_01.runtimeconfig.json
+F:\jony\All-project\For upload Project\SignalR\work_01\work_01\bin\Debug\net6.0\work_01.dll
+F:\jony\All-project\For upload Project\SignalR\work_01\work_01\bin\Debug\net6.0\work_01.pdb
+F:\jony\All-project\For upload Project\SignalR\work_01\work_01\obj\Debug\net6.0\work_01.csproj.AssemblyReference.cache
+F:\jony\All-project\For upload Project\SignalR\work_01\work_01\obj\Debug\net6.0\work_01.GeneratedMSBuildEditorConfig.editorconfig
+F:\jony\All-project\For upload Project\SignalR\work_01\work_01\obj\Debug\net6.0\work_01.AssemblyInfoInputs.cache
+F:\jony\All-project\For upload Project\SignalR\work_01\work_01\obj\Debug\net6.0\work_01.AssemblyInfo.cs
+F:\jony\All-project\For upload Project\SignalR\work_01\work_01\obj\Debug\net6.0\work_01.csproj.CoreCompileInputs.cache
+F:\jony\All-project\For upload Project\SignalR\work_01\work_01\obj\Debug\net6.0\work_01.MvcApplicationPartsAssemblyInfo.cache
+F:\jony\All-project\For upload Project\SignalR\work_01\work_01\obj\Debug\net6.0\work_01.RazorAssemblyInfo.cache
+F:\jony\All-project\For upload Project\SignalR\work_01\work_01\obj\Debug\net6.0\work_01.RazorAssemblyInfo.cs
+F:\jony\All-project\For upload Project\SignalR\work_01\work_01\obj\Debug\net6.0\staticwebassets\msbuild.work_01.Microsoft.AspNetCore.StaticWebAssets.props
+F:\jony\All-project\For upload Project\SignalR\work_01\work_01\obj\Debug\net6.0\staticwebassets\msbuild.build.work_01.props
+F:\jony\All-project\For upload Project\SignalR\work_01\work_01\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.work_01.props
+F:\jony\All-project\For upload Project\SignalR\work_01\work_01\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.work_01.props
+F:\jony\All-project\For upload Project\SignalR\work_01\work_01\obj\Debug\net6.0\staticwebassets.pack.json
+F:\jony\All-project\For upload Project\SignalR\work_01\work_01\obj\Debug\net6.0\staticwebassets.build.json
+F:\jony\All-project\For upload Project\SignalR\work_01\work_01\obj\Debug\net6.0\staticwebassets.development.json
+F:\jony\All-project\For upload Project\SignalR\work_01\work_01\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\jony\All-project\For upload Project\SignalR\work_01\work_01\obj\Debug\net6.0\scopedcss\bundle\work_01.styles.css
+F:\jony\All-project\For upload Project\SignalR\work_01\work_01\obj\Debug\net6.0\scopedcss\projectbundle\work_01.bundle.scp.css
+F:\jony\All-project\For upload Project\SignalR\work_01\work_01\obj\Debug\net6.0\work_01.dll
+F:\jony\All-project\For upload Project\SignalR\work_01\work_01\obj\Debug\net6.0\refint\work_01.dll
+F:\jony\All-project\For upload Project\SignalR\work_01\work_01\obj\Debug\net6.0\work_01.pdb
+F:\jony\All-project\For upload Project\SignalR\work_01\work_01\obj\Debug\net6.0\work_01.genruntimeconfig.cache
+F:\jony\All-project\For upload Project\SignalR\work_01\work_01\obj\Debug\net6.0\ref\work_01.dll
